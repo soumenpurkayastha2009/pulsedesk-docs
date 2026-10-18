@@ -23,4 +23,4 @@ Contact your PulseDesk support administrator.
 
 ## Notifications are not arriving
 
-If you are not receiving ticket notifications, check your notification preferences and verify that your email address is correct.
+If you are not receiving ticket notifications, check your notification preferences.
