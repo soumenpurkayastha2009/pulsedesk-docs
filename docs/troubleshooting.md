@@ -19,3 +19,8 @@ Use this page to resolve common PulseDesk issues.
 ## Still need help?
 
 Contact your PulseDesk support administrator.
+
+
+## Notifications are not arriving
+
+If you are not receiving ticket notifications, check your notification preferences.
