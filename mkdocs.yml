@@ -1,0 +1,19 @@
+site_name: PulseDesk Documentation
+
+site_description: Documentation for the PulseDesk application
+
+site_url: ""
+
+theme:
+  name: readthedocs
+
+nav:
+  - Home: index.md
+  - Explore:
+      - Product Overview: overview.md
+  - Get Started:
+      - Getting Started: getting-started.md
+      - Configure PulseDesk: configuration.md
+  - Reference:
+      - Troubleshooting: troubleshooting.md
+      - API Reference: api-reference.md
